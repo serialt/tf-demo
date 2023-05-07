@@ -1,0 +1,7 @@
+*.retry
+.vscode
+.terraform
+.terraform.lock.*
+terraform.tfstate
+terraform.tfstate.backup
+!users.csv
